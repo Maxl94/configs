@@ -1,6 +1,6 @@
 {
     "time1": 8,
-    "interval1": 60,
-    "time2": 20,
-    "interval2": 60
+    "interval1": 120,
+    "time2": 120,
+    "interval2": 21
 }
